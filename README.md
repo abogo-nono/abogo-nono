@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abogo Lincoln
+# Hi there! 👋 I'm ABOGO Lincoln
 
 I'm a software engineering student, full-stack developer, and designer passionate about creating innovative solutions. Currently, I'm diving deep into Next.js and Node.js. Welcome to my GitHub profile! Here's a little about me:
 
