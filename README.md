@@ -17,7 +17,7 @@ I'm a software engineering student, full-stack developer, and designer passionat
 
 ### **Frameworks and Libraries**
   
-  [![Frameworks and Libraries](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,react,materialui,laravel,vuejs,qt,jquery)](#frameworks-and-libraries)
+  [![Frameworks and Libraries](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,react,materialui,mongodb,laravel,nodejs,expressjs,qt,jquery)](#frameworks-and-libraries)
 
 ### **Tools and Technologies**
 
