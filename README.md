@@ -26,7 +26,7 @@ I'm a software engineering student, full-stack developer, and designer passionat
 ## Connect with Me
 
   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/abogolincoln)
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abogo-nono)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abogonono)
   [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/abogonono)
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
