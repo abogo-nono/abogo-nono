@@ -13,11 +13,11 @@ I'm a software engineering student, full-stack developer, and designer passionat
 
 ### **Programming Languages**
 
-  [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,bash,php,mysql)](#programming-languages)
+  [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,bash,php,mysql)](#programming-languages)
 
 ### **Frameworks and Libraries**
   
-  [![Frameworks and Libraries](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,react,materialui,mongodb,laravel,nodejs,expressjs,qt,jquery)](#frameworks-and-libraries)
+  [![Frameworks and Libraries](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,react,materialui,flask,fastapi,mongodb,laravel,nodejs,expressjs,qt,jquery)](#frameworks-and-libraries)
 
 ### **Tools and Technologies**
 
