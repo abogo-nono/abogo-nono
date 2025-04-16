@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm ABOGO Lincoln
 
-I'm a passionate software engineering, full-stack developer, constantly striving to create innovative solutions. Currently, I’m diving deep into **Next.js** and **Node.js** while expanding my knowledge across various technologies. Welcome to my GitHub profile—here’s a little more about me:
+I'm a passionate software engineer, specializing in backend development, constantly striving to create innovative solutions. Currently, I’m diving deep into **Next.js** and **Node.js** while expanding my knowledge across various technologies. Welcome to my GitHub profile—here’s a little more about me:
 
 ## About Me
 
