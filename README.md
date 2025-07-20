@@ -34,8 +34,6 @@ Let’s connect! Feel free to reach out to me on any of these platforms:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abogo-nono&color=blueviolet&style=flat-square&label=Profile+Views)
 
-![Total Views Since Creation](https://komarev.com/ghpvc/?username=abogo-nono&color=red&style=for-the-badge&label=Total+Views+Since+Creation)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abogo-nono&show_icons=true&count_private=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abogo-nono&layout=compact&theme=radical)
