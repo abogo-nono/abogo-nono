@@ -32,6 +32,18 @@ Let’s connect! Feel free to reach out to me on any of these platforms:
 
 ## GitHub Stats 📊
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abogo-nono&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=abogo-nono&color=blueviolet&style=flat-square&label=Profile+Views)
+
+![Total Views Since Creation](https://komarev.com/ghpvc/?username=abogo-nono&color=red&style=for-the-badge&label=Total+Views+Since+Creation)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abogo-nono&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abogo-nono&layout=compact&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abogo-nono&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=abogo-nono&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abogo-nono&theme=radical)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions!
