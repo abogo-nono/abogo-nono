@@ -13,26 +13,19 @@ I'm a passionate **software engineer** specializing in **backend development**, 
 ```javascript
 const abogo = {
     pronouns: "He/Him",
-    location: "Earth 🌍",
+    location: "Moon",
     currentFocus: ["Next.js", "Node.js", "Full-Stack Development"],
     passions: ["Backend Architecture", "Desktop Applications", "Clean Code"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
-### What I Do:
+### What I Do
+
 - 💻 **Full-Stack Development** → Building scalable web applications with **Laravel** & **Flask**
 - 🖥️ **Desktop Applications** → Creating powerful desktop apps with **Qt** & **C++/Python**
 - 🌱 **Continuous Learning** → Currently mastering **Node.js** & **Next.js** ecosystems
-- 🔧 **Problem Solving** → Turning complex challenges into elegant solutionse! 👋 I'm ABOGO Lincoln
-
-I'm a passionate software engineer, specializing in backend development, constantly striving to create innovative solutions. Currently, I’m diving deep into **Next.js** and **Node.js** while expanding my knowledge across various technologies. Welcome to my GitHub profile—here’s a little more about me:
-
-## About Me
-
-- 💻 **Full-Stack Developer**: I love working on both the frontend and backend, using technologies like **Laravel**, **Flask**.
-- 🖥️ **Desktop App Developer**: I also enjoy building desktop applications with **Qt** and **C++ / Python**.
-- 🌱 **Currently Learning**: I'm focused on learning **Node.js** and **Next.js** to build more dynamic and efficient web applications.
+- 🔧 **Problem Solving** → Turning complex challenges into elegant solutions
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +50,7 @@ I'm a passionate software engineer, specializing in backend development, constan
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abogonono)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abogonono)
 
-**Let's build something amazing together! 🚀**
+💬 Let's build something amazing together!
 
 </div>
 
@@ -65,14 +58,14 @@ I'm a passionate software engineer, specializing in backend development, constan
 
 <div align="center">
 
-### � Profile Insights
+### 👀 Profile Insights
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abogo-nono&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### 📈 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abogo-nono&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abogo-nono&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abogo-nono&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abogo-nono&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ### 🏆 Achievements & Activity
 
@@ -93,11 +86,22 @@ I'm a passionate software engineer, specializing in backend development, constan
 - 📚 Share knowledge through **technical writing**
 - 🤝 Collaborate on **innovative** projects
 
+## 📈 Recent Activity
+
+- 🚀 Working on full-stack web applications
+- 💡 Learning advanced **React** patterns and **Node.js** best practices
+- 🔧 Building desktop applications with **Qt** and **Python**
+- 📖 Exploring **microservices** architecture and **Docker** containerization
+
 <div align="center">
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💭 Quote of the Day
 
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations! ✨**
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+### 🙏 Thank You for Visiting!
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations! ✨
 
 ⭐ **If you find my work interesting, consider giving it a star!** ⭐
 
