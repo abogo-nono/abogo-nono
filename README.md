@@ -32,13 +32,16 @@ const abogo = {
 <div align="center">
 
 ### Programming Languages
+
 [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,php,bash,mysql&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,expressjs,laravel,flask,fastapi,qt,bootstrap,tailwind,sass,materialui,mongodb,jquery&theme=dark)](https://skillicons.dev)
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,expressjs,laravel,flask,fastapi,tailwind,mongodb&theme=dark)](https://skillicons.dev)
 
 ### Tools & Technologies
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,cmake,wordpress,vim,figma,ubuntu,vercel&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,vim,figma,ubuntu,vercel&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -89,7 +92,7 @@ const abogo = {
 ## 📈 Recent Activity
 
 - 🚀 Working on full-stack web applications
-- 💡 Learning advanced **Java** patterns
+- 💡 Learning advanced **Java** concepts
 - 🔧 Building desktop applications with **Qt** and **Python**
 - 📖 Exploring **Spring Boot** for api building and **Docker** containerization
 
