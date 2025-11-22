@@ -8,23 +8,23 @@
 
 ## 🚀 About Me
 
-I'm a passionate **software engineer** specializing in **backend development**, constantly striving to create innovative solutions. Currently, I'm diving deep into **Next.js** and **Node.js** while expanding my knowledge across various technologies.
+I'm a passionate **software engineer** specializing in **backend development**, constantly striving to create innovative solutions. Currently, I'm diving deep into **Java** and **Spring Boot** while expanding my knowledge across various technologies.
 
 ```javascript
 const abogo = {
     pronouns: "He/Him",
     location: "Moon",
-    currentFocus: ["Next.js", "Node.js", "Full-Stack Development"],
+    currentFocus: ["Java", "Spring Boot", "Full-Stack Development"],
     passions: ["Backend Architecture", "Desktop Applications", "Clean Code"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I debug with System.out.println() and I'm not ashamed! 😄"
 };
 ```
 
 ### What I Do
 
-- 💻 **Full-Stack Development** → Building scalable web applications with **Laravel** & **Flask**
+- 💻 **Full-Stack Development** → Building scalable web applications with **Laravel** & **FastAPI** & **React.js**
 - 🖥️ **Desktop Applications** → Creating powerful desktop apps with **Qt** & **C++/Python**
-- 🌱 **Continuous Learning** → Currently mastering **Node.js** & **Next.js** ecosystems
+- 🌱 **Continuous Learning** → Currently mastering **Java** & **Sprint Boot** ecosystems
 - 🔧 **Problem Solving** → Turning complex challenges into elegant solutions
 
 ## 🛠️ Tech Stack
@@ -38,7 +38,7 @@ const abogo = {
 [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,expressjs,laravel,flask,fastapi,qt,bootstrap,tailwind,sass,materialui,mongodb,jquery&theme=dark)](https://skillicons.dev)
 
 ### Tools & Technologies
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,cmake,pycharm,phpstorm,wordpress,emacs,vim,figma,webpack,ubuntu,vercel&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,cmake,wordpress,vim,figma,ubuntu,vercel&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -81,17 +81,17 @@ const abogo = {
 
 ## 🎯 Current Goals
 
-- 🔥 Master **Next.js** and **Node.js** ecosystem
+- 🔥 Master **Java** and **Spring Boot** ecosystem
 - 🌟 Contribute to **open-source** projects
-- 📚 Share knowledge through **technical writing**
+- 📚 Share knowledge through **Mentoring**
 - 🤝 Collaborate on **innovative** projects
 
 ## 📈 Recent Activity
 
 - 🚀 Working on full-stack web applications
-- 💡 Learning advanced **React** patterns and **Node.js** best practices
+- 💡 Learning advanced **Java** patterns
 - 🔧 Building desktop applications with **Qt** and **Python**
-- 📖 Exploring **microservices** architecture and **Docker** containerization
+- 📖 Exploring **Spring Boot** for api building and **Docker** containerization
 
 <div align="center">
 
