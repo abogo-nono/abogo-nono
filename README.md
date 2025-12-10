@@ -75,7 +75,7 @@ const abogo = {
 
 ### 💭 Quote of the Day
 
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+*"The best way to predict the futures is to code it!"* - ABOGO Lincoln
 
 ### 🙏 Thank You for Visiting!
 
