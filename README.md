@@ -57,31 +57,6 @@ const abogo = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 👀 Profile Insights
-
-![Profile Views](https://komarev.com/ghpvc/?username=abogo-nono&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
-
-### 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abogo-nono&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abogo-nono&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-### 🏆 Achievements & Activity
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abogo-nono&theme=radical&no-frame=true&row=1&column=6)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abogo-nono&theme=radical&hide_border=true&background=0D1117)
-
-### 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abogo-nono&theme=redical&hide_border=true&bg_color=0D1117)
-
-</div>
-
 ## 🎯 Current Goals
 
 - 🔥 Master **Java** and **Spring Boot** ecosystem
